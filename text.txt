@@ -1,0 +1,6 @@
+This is a
+text file to 
+check the 
+Text 
+exist or 
+not
